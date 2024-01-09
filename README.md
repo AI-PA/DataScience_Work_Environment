@@ -24,8 +24,9 @@ Proyecto que puede tener sus propias dependencias, independientemente de las dep
 **¿Qué es conda?**
 Conda es un una gestión de paquetes, dependencias y entornos para cualquier lenguaje. Ayudadnos a manejar todo lo relacionado a mantener proyectos y actualizar dependencias de manera especifica ヾ(⌐■_■)ノ♪.
 
-Asi que empecemos por el principio:
+Asi que empecemos por el principio para aprender a manejar esta herramienta:
 
 - [Instalación de Conda](./Conda/Instalacion.md)
+- [Primeros pasos](./Conda/Primeros_Pasos.md)
 
 ## Lecciones Aprendidas
