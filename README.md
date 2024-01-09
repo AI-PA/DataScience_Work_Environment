@@ -29,5 +29,7 @@ Asi que empecemos por el principio para aprender a manejar esta herramienta:
 - [Instalación de Conda](./Conda/Instalacion.md)
 - [Primeros pasos](./Conda/Primeros_Pasos.md)
 - [Eliminar ambientes y librerías](./Conda/Eliminar_Ambientes_Librerias.md)
+- [Comandos Avanzados](./Conda/Comandos_Avanzados.md)
+- [Conda Cheatsheet](./Conda/document/conda-cheatsheet.pdf)
 
 ## Lecciones Aprendidas
